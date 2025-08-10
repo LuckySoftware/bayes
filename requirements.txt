@@ -1,0 +1,8 @@
+numpy==1.21.0
+matplotlib==3.5.0
+dash==2.14.1
+dash-bootstrap-components==1.4.0
+plotly==5.18.0
+pandas==2.0.3
+pdfkit==1.0.0
+Jinja2==3.1.2
